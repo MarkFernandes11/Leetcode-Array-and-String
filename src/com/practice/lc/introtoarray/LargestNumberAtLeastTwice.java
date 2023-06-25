@@ -1,4 +1,4 @@
-package com.practice.lc.intotoarray;
+package com.practice.lc.introtoarray;
 
 public class LargestNumberAtLeastTwice {
 	
